@@ -1,3 +1,3 @@
 top bun
-Cat (Bob)
+Dog (Macheva)
 bottom bun
